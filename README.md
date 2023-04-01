@@ -1,4 +1,4 @@
-# Openapi chat talks to itself
+# AI chatpot talks to itself
 
 This project is written in go "1.19"
 
