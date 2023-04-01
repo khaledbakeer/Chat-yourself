@@ -27,3 +27,6 @@ start the app:
 **key1** and **key2** the generated keys from [openai website](https://platform.openai.com/account/api-keys)
 **start**: how you start the conversation e.g. "How are you?" 
 
+Here is an example:
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/PfDUVg2Kht8/0.jpg)](https://youtu.be/PfDUVg2Kht8)
